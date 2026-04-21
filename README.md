@@ -44,9 +44,10 @@ http://127.0.0.1:8000/docs
 
 # Validation Rules
 
- Email must be valid
- Age must be greater than 0
- Doctor not found
+* Email must be valid
+* Age must be greater than 0
+* Doctor not found
+* Patient not found
 
 
 
